@@ -1,0 +1,49 @@
+23:39:52.581 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details... 
+23:39:55.036 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+23:39:55.084 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+23:40:01.362 [main] INFO  testCases.TC002_LoginTest - *****  Starting TC_002_LoginTest  *****
+23:40:05.239 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+23:16:11.271 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\MyAutomationWorkspace\OpencartV121\master.xml"
+23:16:12.089 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\MyAutomationWorkspace\OpencartV121\master.xml
+
+23:16:25.031 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+23:16:25.406 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link.. 
+23:16:26.129 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link.. 
+23:16:26.183 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details... 
+23:16:28.134 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+23:16:28.190 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ******
+23:16:33.206 [main] INFO  testCases.TC002_LoginTest - *****  Starting TC_002_LoginTest  *****
+23:16:35.482 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+23:18:10.071 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\MyAutomationWorkspace\OpencartV121\master.xml"
+23:18:10.948 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\MyAutomationWorkspace\OpencartV121\master.xml
+
+23:18:43.330 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\MyAutomationWorkspace\OpencartV121\master.xml"
+23:18:43.823 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\MyAutomationWorkspace\OpencartV121\master.xml
+
+23:19:49.101 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\MyAutomationWorkspace\OpencartV121\master.xml"
+23:19:49.760 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\MyAutomationWorkspace\OpencartV121\master.xml
+
+23:21:14.405 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\MyAutomationWorkspace\OpencartV121\master.xml"
+23:21:14.895 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\MyAutomationWorkspace\OpencartV121\master.xml
+
+23:23:34.226 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\MyAutomationWorkspace\OpencartV121\crossbrowsertesting.xml"
+23:23:34.753 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\MyAutomationWorkspace\OpencartV121\crossbrowsertesting.xml
+
+23:23:35.276 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+23:34:07.998 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\MyAutomationWorkspace\OpencartV121\crossbrowsertesting.xml"
+23:34:08.535 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\MyAutomationWorkspace\OpencartV121\crossbrowsertesting.xml
+
+23:34:08.976 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest ******
+17:56:44.311 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\MyAutomationWorkspace\OpencartV121\master.xml"
+17:59:10.488 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\MyAutomationWorkspace\OpencartV121\master.xml"
+18:34:25.220 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\MyAutomationWorkspace\OpencartV121\master.xml"
+18:55:23.082 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\MyAutomationWorkspace\OpencartV121\master.xml"
+19:06:20.769 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\MyAutomationWorkspace\OpencartV121\master.xml"
+19:12:53.914 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\MyAutomationWorkspace\OpencartV121\master.xml"
